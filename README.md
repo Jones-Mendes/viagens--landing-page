@@ -14,7 +14,9 @@ Este projeto e uma landing page para um site de viagens. O objetivo e apresentar
 
 ## Como visualizar
 
-Abra o arquivo index.html no navegador.
+Click no link
+
+https://jones-mendes.github.io/viagens--landing-page/
 
 ## Tecnologias
 
